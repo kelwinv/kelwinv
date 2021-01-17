@@ -1,16 +1,39 @@
-### Hi there 👋
 
-<!--
-**kelwinv/kelwinv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Opa iae ✌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## sobre 👤
+  🖐 | Oi! me chamo Kelwin vieira tenho 17 anos e sou 🌟programador web🌟<br />
+  📍  | Atualmente moro em: Osasco,Sp  <br />
+  🎧 | Membro da @viladosom.rec <br />
+
+## Status do GitHub:
+
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Kelwinv&show_icons=true&count_private=true&theme=midnight-purple)
+
+* Aqui estão minhas lingagens mais usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelwinv&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+----- 
+
+<details>
+<summary>
+	Ver mais
+</summary>
+
+## Minhas principais habilidade 🎮🛠
+- JavaScript, typescript
+- HTML, CSS
+- React, Node
+- docker
+- TypeOrm,knex.js
+- PostgresSql,MongoDB
+
+## Foco nos estudos 📚
+- next.js
+- Node, React Native
+- TypeOrm,knex.js
+- PostgresSql,MongoDB
+
+</details>
