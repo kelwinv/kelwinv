@@ -7,6 +7,7 @@
   🖐 | Oi! me chamo Kelwin vieira tenho 17 anos e sou 🌟programador web🌟<br />
   📍  | Atualmente moro em: Osasco,Sp  <br />
   🎧 | Membro da @viladosom.rec <br />
+  ![Linkedin](https://www.linkedin.com/in/kelwinv)
 
 ## Status do GitHub:
 
