@@ -6,7 +6,7 @@
 ## sobre 👤
   🖐 | Oi! me chamo Kelwin vieira tenho 18 anos e sou 🌟programador web🌟<br />
   📍  | Atualmente moro em: Osasco,Sp  <br />
-  🔗 | https://kelwin.vercel.app
+  🔗 | https://kelwin.vercel.app  <br />
   in | https://www.linkedin.com/in/kelwinv
 
 ## Status do GitHub:
