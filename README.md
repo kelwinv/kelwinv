@@ -11,18 +11,8 @@
 
 ## Status do GitHub:
 
-<div align="center">
-<kbd>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kelwinv&show_icons=true&count_private=true&theme=midnight-purple" />
-</kbd>
-<kbd>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelwinv&layout=compact&theme=midnight-purple" />
-</kbd>
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Kelwinv&show_icons=true&count_private=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelwinv&layout=compact&theme=midnight-purple) 
 	
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelwinv&layout=compact&theme=midnight-purple) -->
-<!-- ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Kelwinv&show_icons=true&count_private=true&theme=midnight-purple) -->
-</div>
-
 ----- 
 
 <details>
