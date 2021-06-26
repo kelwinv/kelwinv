@@ -11,11 +11,18 @@
 
 ## Status do GitHub:
 
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Kelwinv&show_icons=true&count_private=true&theme=midnight-purple)
+<div align="center">
+<kbd>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kelwinv&show_icons=true&count_private=true&theme=midnight-purple" />
+</kbd>
+<kbd>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelwinv&layout=compact&theme=midnight-purple" />
+</kbd>
+	
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelwinv&layout=compact&theme=midnight-purple) -->
+<!-- ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Kelwinv&show_icons=true&count_private=true&theme=midnight-purple) -->
+</div>
 
-* Aqui estão minhas lingagens mais usadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelwinv&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 ----- 
 
 <details>
