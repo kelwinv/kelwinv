@@ -1,37 +1,32 @@
+# Opa iae! ✌️
 
-
-# Opa iae ✌
-
-
-## sobre 👤
-  🖐 | Oi! me chamo Kelwin vieira tenho 18 anos e sou 🌟programador web🌟<br />
-  📍  | Atualmente moro em: Osasco,Sp  <br />
-  🔗 | https://kelwin.vercel.app  <br />
-  in | https://www.linkedin.com/in/kelwinv
+## Sobre 👤
+- Olá! Me chamo Kelwin e sou um desenvolvedor full-stack apaixonado por tecnologia.
+- Tenho 4 anos de experiência na área e adoro encarar novos desafios para criar soluções inovadoras.
+- Atualmente moro em Osasco, SP e você pode conferir meu site pessoal em 🌐 [kelwin.vercel.app](https://kelwin.vercel.app).
+- Vamos nos conectar no LinkedIn: 👥 [linkedin.com/in/kelwinv](https://www.linkedin.com/in/kelwinv).
 
 ## Status do GitHub:
 
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Kelwinv&show_icons=true&count_private=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelwinv&layout=compact&theme=midnight-purple) 
+![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Kelwinv&show_icons=true&count_private=true&theme=midnight-purple) ![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelwinv&layout=compact&theme=midnight-purple) 
 	
 ----- 
 
 <details>
 <summary>
-	Ver mais
+	Ver mais sobre mim 👀
 </summary>
 
-## Minhas principais habilidade 🎮🛠
-- JavaScript, typescript
+## Minhas principais habilidades 🎮🛠
+- JavaScript, TypeScript
 - HTML, CSS
-- React, Node
-- docker
-- TypeOrm,knex.js
-- PostgresSql,MongoDB
+- React, Next.js, Node
+- Docker 🐳
+- TypeORM
+- PostgreSQL, MongoDB
 
-## Foco nos estudos 📚
-- next.js
-- Node, React Native
-- TypeOrm,knex.js
-- PostgresSql,MongoDB
+## Experiências
+- Python 🐍
+- React Native ⚛️
 
 </details>
