@@ -1,32 +1,28 @@
-# Opa iae! ✌️
+# Opa, eu sou o Kelwin ✌️
 
-## Sobre 👤
-- Olá! Me chamo Kelwin e sou um desenvolvedor full-stack apaixonado por tecnologia.
-- Tenho 4 anos de experiência na área e adoro encarar novos desafios para criar soluções inovadoras.
-- Atualmente moro em Osasco, SP e você pode conferir meu site pessoal em 🌐 [kelwin.vercel.app](https://kelwin.vercel.app).
-- Vamos nos conectar no LinkedIn: 👥 [linkedin.com/in/kelwinv](https://www.linkedin.com/in/kelwinv).
+**Software Engineer Full Stack**, de Osasco, SP. Tenho mais de 5 anos de experiência profissional com desenvolvimento de produtos web.
 
-## Status do GitHub:
+Trabalho com React, TypeScript, Node.js e Python, da interface às regras de negócio e à publicação das aplicações. Meu ponto de partida é entender o problema de quem vai usar o produto.
 
-![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Kelwinv&show_icons=true&count_private=true&theme=midnight-purple) ![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelwinv&layout=compact&theme=midnight-purple) 
-	
------ 
+## Algumas entregas
 
-<details>
-<summary>
-	Ver mais sobre mim 👀
-</summary>
+- **Performance na iFollow:** reduzi o carregamento de um dashboard de cerca de 5 minutos para cerca de 2 segundos, com agregação no backend, carregamento assíncrono e lazy loading.
+- **Automação no Grupo Prime:** automatizei a categorização de dados e a geração de relatórios com Python, com economia estimada de aproximadamente 20 horas de trabalho manual por mês.
+- **IA aplicada na iFollow:** construí um bot com RAG integrado ao Google Chat para consultar a documentação do Cronos e responder dúvidas sobre o sistema.
 
-## Minhas principais habilidades 🎮🛠
-- JavaScript, TypeScript
-- HTML, CSS
-- React, Next.js, Node
-- Docker 🐳
-- TypeORM
-- PostgreSQL, MongoDB
+## Tecnologias
 
-## Experiências
-- Python 🐍
-- React Native ⚛️
+- **Frontend:** React, Next.js, TypeScript e Tailwind CSS.
+- **Backend e dados:** Node.js, NestJS, Python, PostgreSQL e MongoDB.
+- **Infraestrutura e qualidade:** Docker, AWS, GitHub Actions, Jest e Playwright.
+- **IA aplicada:** RAG, agentes e desenvolvimento orientado por especificações com OpenSpec.
 
-</details>
+## Projetos próprios
+
+**Órium** — projeto em desenvolvimento para buscar vagas e explorar a compatibilidade entre oportunidades e perfis com regras, embeddings e LLMs. A arquitetura de match está em estudo.
+
+**Massas Insanas** — sistema em desenvolvimento para a loja de alimentação da minha esposa. Traduzo necessidades da operação em regras de estoque, validade, custos, precificação e vendas, com funcionamento local e offline.
+
+## Vamos conversar
+
+[Portfólio](https://kelwin.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/kelwinv/) · [E-mail](mailto:kelwin.v.goncalves@gmail.com)
